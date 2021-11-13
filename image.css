@@ -1,0 +1,15 @@
+.image, .container {
+    display: block;
+}
+
+.container {
+    background-color: lightgrey;
+    color: black;
+}
+
+.img-content {
+    width: 25%;
+    height: 25%;
+    border: 0;
+    float: right;
+}

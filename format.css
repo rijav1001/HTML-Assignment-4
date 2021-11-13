@@ -1,0 +1,21 @@
+.container {
+    background-color: black;
+    color: white;
+}
+
+.container2 {
+    background-color: lightgrey;
+    color: black;
+}
+.days {
+    list-style: square;
+}
+
+.months {
+    list-style: lower-roman;
+}
+
+.seasons {
+    list-style: none;
+    padding-left: 15px;
+}
